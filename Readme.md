@@ -59,7 +59,7 @@ Let me tell you, I used to discuss my research and where it was published within
 
 ## Attachments
 
-End your email by mentioning the attachments you are going to include. You should attach your <strong>CV</strong> and a <strong>research proposal</strong> <em>(I didn't attach any research proposal, but you should. LEARN FROM MY MISTAKES; THIS IS THE PURPOSE OF THIS BLOG.)</em> You do not have to attach any other documents; if anything is required, your Professor will ask you.
+End your email by mentioning the attachments you are going to include. You should attach your <strong>CV</strong> and a <strong>research statement</strong> <em>(I didn't attach any research statement, but you should. LEARN FROM MY MISTAKES; THIS IS THE PURPOSE OF THIS BLOG.)</em> You do not have to attach any other documents; if anything is required, your Professor will ask you.
 
 ---
 
