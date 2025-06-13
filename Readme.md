@@ -45,7 +45,7 @@ You can start by explaining why you are interested in the Professor's research. 
 One interesting part is asking or telling any potential research question about the topic; it generally works well. <em>(Again, don't ask LLM to generate research questions; you need to develop them by reading the papers. Here is the fun of being a researcher, right?)</em>
 
 <p><strong style="color:red;">DO NOT BE GENERIC AND ROBOTIC.</strong></p>  
-People who get replies spend a couple of hours writing this paragraph for a single professor; there are no shortcuts. Write a high-quality email, connect with the Professor's research, and get a reply or interview.
+People write one paragraph and ask LLM to follow the template. LLM writes for other professors by getting some information. IF YOU DO SUCH THINGS, YOU ARE NOT READY FOR HIGHER STUDIES, AND YOU ARE NOT GOING TO GET ANY REPLY. People who get replies spend a couple of hours writing this paragraph for a single professor; there are no shortcuts. Write a high-quality email, connect with the Professor's research, and get a reply or interview.
 
 <em>(Use a maximum of 120 words for this section; I used to keep it under 100 words yet fully connect with the Professor.)</em>
 
