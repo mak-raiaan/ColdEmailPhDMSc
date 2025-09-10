@@ -77,21 +77,11 @@ To understand what a good research statement looks like, I found **Prof. Bharath
 ## <span style="color:#1d3557; font-size:18px;">⭐ If you found this blog useful...</span>
 
 <p style="background-color:#f1faee; padding:12px; border-radius:6px;">
-If you like this blog and it helped you, a <strong style="color:#e63946;">⭐ STAR</strong> in this repository would be appreciated.<br><br>
-If you want my full consultation about:
-<ul>
-  <li>Feedback for your cold emails</li>
-  <li>Guidance for Writing Statement of Purpose</li>
-  <li>Guidance for Writing Diversity/Personal Statements</li>
-  <li>Guidance for Writing Research Proposals</li>
-  <li>Any other admission-related consultations for <strong>USA and Australia</strong></li>
-</ul>
-Give me a knock on <a href="mailto:m.raiaan.cs@gmail.com"><strong>m.raiaan.cs@gmail.com</strong></a>.  
-It's first come, first serve based, and I will work on very few candidates as I believe <strong>QUALITY OVER QUANTITY ALWAYS</strong>.
+If you like this blog and it helped you, a <strong style="color:#e63946;">⭐ STAR</strong> in this repository would be appreciated.
 </p>
 
 ---
 
 ## Acknowledgment
 
-For writing this blog, <strong>Dr. Shawan Chowdhury’s blog</strong> on <em>Writing an academic cover letter</em> helped me highly, and I got benefited from that as well. You can check it out here: [https://shawanchowdhury.com/2022/07/06/writing-an-academic-cover-letter/](https://shawanchowdhury.com/2022/07/06/writing-an-academic-cover-letter/)
+For writing this blog, <strong>Dr. Shawan Chowdhury’s blog</strong> on <em>Writing an academic cover letter</em> helped me highly, and I got benefited from that as well. You can check it out here: [https://shawanchowdhurylab.com/2022/07/06/writing-an-academic-cover-letter/](https://shawanchowdhurylab.com/2022/07/06/writing-an-academic-cover-letter/)
