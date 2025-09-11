@@ -74,11 +74,8 @@ To understand what a good research statement looks like, I found **Prof. Bharath
 
 ---
 
-## <span style="color:#1d3557; font-size:18px;">⭐ If you found this blog useful...</span>
+## <span style="color:#1d3557; font-size:18px;">If you like this blog and it helped you, a <strong style="color:#e63946;">⭐ STAR</strong> in this repository would be appreciated.</span>
 
-<p style="background-color:#f1faee; padding:12px; border-radius:6px;">
-If you like this blog and it helped you, a <strong style="color:#e63946;">⭐ STAR</strong> in this repository would be appreciated.
-</p>
 
 ---
 
